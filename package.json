@@ -38,6 +38,11 @@
     "web-vitals": "^2.1.4",
     "yup": "^1.1.1"
   },
+  "overrides": {
+    "react-lottie": {
+      "react": "^18.2.0"
+    }
+  },
   "scripts": {
     "start": "set PORT=8017 && react-scripts start",
     "build": "react-scripts build",
