@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcraze_website=self.webpackChunkcraze_website||[]).push([[853],{3853:function(e,r,t){t.d(r,{Q8x:function(){return c}});var n=t(9983);function c(e){return(0,n.w_)({tag:"svg",attr:{viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:"2",strokeLinecap:"round",strokeLinejoin:"round"},child:[{tag:"circle",attr:{cx:"12",cy:"12",r:"10"}}]})(e)}}}]);
+//# sourceMappingURL=853.fc349238.chunk.js.map
