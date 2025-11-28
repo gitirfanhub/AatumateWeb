@@ -6,7 +6,6 @@ import { MSG_TYPE, useToaster } from "../../components/Toastbar";
 import { postData } from "../../utils/fetchData";
 import LoginJson from "../../json/Login.json";
 import { Link, useNavigate } from "react-router-dom";
-import Lottie from "react-lottie";
 import { Formik } from "formik";
 import * as Yup from "yup";
 import { IconButton, InputAdornment, TextField } from "@mui/material";

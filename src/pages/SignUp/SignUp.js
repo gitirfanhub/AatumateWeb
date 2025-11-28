@@ -3,7 +3,6 @@ import SignUpStyleWrapper from "./SignUpStyles";
 import TextFieldInput from "../../components/TextFieldInput";
 import SignupJson from "../../json/Signup.json";
 import { postData } from "../../utils/fetchData";
-import Lottie from "react-lottie";
 import { Link, useNavigate } from "react-router-dom";
 import { Grid } from "@mui/material";
 import { Formik } from "formik";

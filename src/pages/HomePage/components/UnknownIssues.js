@@ -6,7 +6,6 @@ import { UnknownIssuesFormWrapper } from "../HomePageStyles";
 import Img from "../../../images/Unknown_Issues_Diagnosis.svg";
 import comingsoon from "../../../json/Unknown_Issues_Coming_Soon.json";
 import { AiOutlineClose } from "react-icons/ai";
-import Lottie from "react-lottie";
 
 const UnknownIssues = (props) => {
   const defaultOptions = {

@@ -9,7 +9,6 @@ import { Radio } from "@mui/material";
 import { useCartContext } from "../../context/cart_context";
 import { baseUrl } from "../../utils/constants";
 import SelectedProduct from "./components/SelectedProduct";
-import Lottie from "react-lottie";
 import { BsShieldFillCheck } from "react-icons/bs";
 import { FaTag } from "react-icons/fa";
 import { RiCouponFill } from "react-icons/ri";

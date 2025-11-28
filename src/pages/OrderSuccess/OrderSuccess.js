@@ -1,6 +1,5 @@
 import React from "react";
 import OrderSuccessStyles from "./OrderSuccessStyles";
-import Lottie from "react-lottie";
 import Success from "../../json/Payment_Success.json";
 import { Link } from "react-router-dom";
 

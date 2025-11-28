@@ -6,7 +6,6 @@ import { useProductContext } from "../../context/product_context";
 import { bike_products_url, lmv_products_url } from "../../utils/constants";
 import { useBrandsContext } from "../../context/brands_context";
 import { useLocation, useParams } from "react-router-dom";
-import Lottie from "react-lottie";
 import NoService from "../../json/No_Service.json";
 
 const MerchantDetails = () => {

@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import Lottie from "react-lottie";
 import animationData from "../json/Aatumate_Loader_3.json";
 
 const LoaderWrapper = styled.div`

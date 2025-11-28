@@ -8,7 +8,6 @@ import { baseUrl } from "../../../utils/constants";
 import { putData } from "../../../utils/fetchData";
 import { MdCreate } from "react-icons/md";
 import { MdDelete } from "react-icons/md";
-import Lottie from "react-lottie";
 import AddVehicle from "../../../json/Add_Vehicle.json";
 import defaultImage from "../../../images/Aatumate_Icon_Grey.svg";
 

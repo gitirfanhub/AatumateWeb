@@ -1,5 +1,4 @@
 import React from "react";
-import Lottie from "react-lottie";
 import styled from "styled-components";
 import DefaultImage from "../images/Aatumate_Icon_Grey.svg";
 import UnknownJson from "../json/Unknown_Issues.json";

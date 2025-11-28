@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import ProductCard from "./ProductCard";
 import NoService from "../json/No_Service.json";
-import Lottie from "react-lottie";
 
 const ProductsListWrapper = styled.div`
   min-height: 70vh;

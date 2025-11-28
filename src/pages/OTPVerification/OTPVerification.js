@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import OtpVerificationStyles from "./OTPVerificationStyles";
 import OTPJson from "../../json/OtpVerification.json";
-import Lottie from "react-lottie";
 import OtpInput from "react-otp-input";
 import { useLocation, useNavigate } from "react-router-dom";
 import { postData } from "../../utils/fetchData";

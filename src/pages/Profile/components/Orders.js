@@ -1,5 +1,4 @@
 import React from "react";
-import Lottie from "react-lottie";
 import styled from "styled-components";
 import { useCartContext } from "../../../context/cart_context";
 import NoOrder from "../../../json/No_Orders.json";

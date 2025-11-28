@@ -3,7 +3,6 @@ import { AboutStyleWrapper } from "./AboutStyles";
 import { services } from "../../store/CarouselData";
 import Breadcrumb from "../../components/Breadcrumb";
 import CarWork from "../../images/car-repair.jpg";
-import Lottie from "react-lottie";
 
 function About() {
   return (
