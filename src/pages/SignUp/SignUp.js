@@ -85,7 +85,7 @@ const SignUp = () => {
       <div className="signup-container">
         <div className="signup-text">
           <div className="lottie-json">
-            <Lottie options={defaultOptions} />
+            {/* <Lottie options={defaultOptions} /> */}
           </div>
           <h3>Let's Make it Happen Together! </h3>
         </div>

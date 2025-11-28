@@ -38,7 +38,7 @@ const Orders = () => {
     return (
       <OrderStyles>
         <div className="animation">
-          <Lottie options={defaultOptions} />
+          {/* <Lottie options={defaultOptions} /> */}
         </div>
       </OrderStyles>
     );

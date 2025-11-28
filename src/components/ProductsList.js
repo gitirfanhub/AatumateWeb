@@ -66,7 +66,7 @@ const ProductsList = ({ filter, products }) => {
           Sorry, No Products Found for this subcategory
         </div>
         <div className="animation">
-          <Lottie options={defaultOptions} />
+          {/* <Lottie options={defaultOptions} /> */}
         </div>
       </ProductsListWrapper>
     );

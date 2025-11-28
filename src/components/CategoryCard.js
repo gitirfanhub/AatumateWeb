@@ -74,8 +74,8 @@ const CategoryCard = (props) => {
       <div className="card-wrapper">
         <div className="category-card" onClick={onClick}>
           <div className="category-image">
-            {bgBlack ? (
-              <Lottie options={defaultOptions} />
+            {/* {bgBlack ? (
+              // <Lottie options={defaultOptions} />
             ) : (
               <img
                 src={image}
@@ -85,7 +85,7 @@ const CategoryCard = (props) => {
                   event.onerror = null;
                 }}
               />
-            )}
+            )} */}
           </div>
         </div>
         <div className="category-name">{name}</div>

@@ -67,7 +67,7 @@ const UnknownIssues = (props) => {
           <img src={Img} alt="Unknown Svg" />
         </div>
         <div className="unknown-json">
-          <Lottie options={defaultOptions} />
+          {/* <Lottie options={defaultOptions} /> */}
         </div>
         <h3 className="app">Please download our app for the service.</h3>
       </div>

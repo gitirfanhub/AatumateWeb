@@ -17,7 +17,7 @@ const OrderSuccess = () => {
     <OrderSuccessStyles>
       <p className="success">Your Order placed successfully!</p>
       <div className="animation">
-        <Lottie options={defaultOption} />
+        {/* <Lottie options={defaultOption} /> */}
       </div>
       <Link
         className="addToCart__btn"

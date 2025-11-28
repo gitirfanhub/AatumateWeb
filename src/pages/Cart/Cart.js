@@ -47,7 +47,7 @@ const Cart = () => {
               </Link>
             </div>
             <div className="empty-cart">
-              <Lottie options={defaultOptions} />
+              {/* <Lottie options={defaultOptions} />/ */}
             </div>
           </>
         ) : (

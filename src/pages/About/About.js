@@ -37,11 +37,11 @@ function About() {
                 return (
                   <article key={id} className="service">
                     <span className="icon">
-                      <Lottie
+                      {/* <Lottie
                         options={defaultOptions}
                         width="100%"
                         height="100%"
-                      />
+                      /> */}
                     </span>
                     <h4>{title}</h4>
                     <p>{text}</p>

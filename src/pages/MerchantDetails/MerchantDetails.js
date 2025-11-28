@@ -54,7 +54,7 @@ const MerchantDetails = () => {
     return (
       <MerchantDetailStyleWrapper>
         <div className="animation">
-          <Lottie options={defaultOptions} />
+          {/* <Lottie options={defaultOptions} /> */}
         </div>
         <p className="no-merchant">No merchant Found...</p>
       </MerchantDetailStyleWrapper>

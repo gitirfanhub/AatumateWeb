@@ -54,7 +54,7 @@ const OTPVerification = () => {
       <div className="otp-container">
         <div className="otp-form">
           <div className="image-section">
-            <Lottie options={defaultOptions} />
+            {/* <Lottie options={defaultOptions} /> */}
           </div>
           <div className="email-container">
             <div className="label">

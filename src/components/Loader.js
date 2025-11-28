@@ -31,7 +31,7 @@ const Loader = () => {
     <LoaderWrapper>
       <div className="loader-container">
         <div className="loader">
-          <Lottie options={defaultOptions} width="100%" height="100%" />
+          {/* <Lottie options={defaultOptions} width="100%" height="100%" /> */}
         </div>
       </div>
     </LoaderWrapper>

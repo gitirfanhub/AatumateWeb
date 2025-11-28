@@ -185,7 +185,7 @@ const MyVehicles = () => {
     return (
       <MyVehicleStyles>
         <div className="animation">
-          <Lottie options={defaultOptions} />
+          {/* <Lottie options={defaultOptions} /> */}
         </div>
       </MyVehicleStyles>
     );

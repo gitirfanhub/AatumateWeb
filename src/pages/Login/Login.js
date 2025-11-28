@@ -85,7 +85,7 @@ const Login = () => {
       <div className="login-container">
         <div className="login-form">
           <div className="image-section">
-            <Lottie options={defaultOptions} />
+            {/* <Lottie options={defaultOptions} /> */}
           </div>
           <Formik
             initialValues={initialValues}
